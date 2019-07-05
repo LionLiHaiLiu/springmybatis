@@ -1,0 +1,47 @@
+[spring_mybatis] 2019-06-26 22:31:39 [INFO] [org.springframework.boot.StartupInfoLogger:50] - Starting SpringmybatisApplication on LAPTOP-8AVEJLS3 with PID 8180 (D:\workspace\springmybatis\target\classes started by lion in D:\workspace\springmybatis) 
+[spring_mybatis] 2019-06-26 22:31:39 [INFO] [org.springframework.boot.SpringApplication:646] - No active profile set, falling back to default profiles: default 
+[spring_mybatis] 2019-06-26 22:31:39 [INFO] [org.springframework.boot.logging.DeferredLog:225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+[spring_mybatis] 2019-06-26 22:31:39 [INFO] [org.springframework.boot.logging.DeferredLog:225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+[spring_mybatis] 2019-06-26 22:31:40 [INFO] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:90] - Tomcat initialized with port(s): 9090 (http) 
+[spring_mybatis] 2019-06-26 22:31:40 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Initializing ProtocolHandler ["http-nio-9090"] 
+[spring_mybatis] 2019-06-26 22:31:40 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Starting service [Tomcat] 
+[spring_mybatis] 2019-06-26 22:31:40 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Starting Servlet engine: [Apache Tomcat/9.0.21] 
+[spring_mybatis] 2019-06-26 22:31:40 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - An older version [1.2.17] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21] 
+[spring_mybatis] 2019-06-26 22:31:40 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Loaded APR based Apache Tomcat Native library [1.2.17] using APR version [1.6.3]. 
+[spring_mybatis] 2019-06-26 22:31:40 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true]. 
+[spring_mybatis] 2019-06-26 22:31:40 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true] 
+[spring_mybatis] 2019-06-26 22:31:41 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - OpenSSL successfully initialized [OpenSSL 1.0.2o  27 Mar 2018] 
+[spring_mybatis] 2019-06-26 22:31:41 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Initializing Spring embedded WebApplicationContext 
+[spring_mybatis] 2019-06-26 22:31:41 [INFO] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:283] - Root WebApplicationContext: initialization completed in 2256 ms 
+[spring_mybatis] 2019-06-26 22:31:42 [INFO] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport:171] - Initializing ExecutorService 'applicationTaskExecutor' 
+[spring_mybatis] 2019-06-26 22:31:42 [INFO] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:57] - LiveReload server is running on port 35729 
+[spring_mybatis] 2019-06-26 22:31:42 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Starting ProtocolHandler ["http-nio-9090"] 
+[spring_mybatis] 2019-06-26 22:31:42 [INFO] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:202] - Tomcat started on port(s): 9090 (http) with context path '' 
+[spring_mybatis] 2019-06-26 22:31:42 [INFO] [org.springframework.boot.StartupInfoLogger:59] - Started SpringmybatisApplication in 3.673 seconds (JVM running for 4.72) 
+[spring_mybatis] 2019-06-26 22:35:27 [INFO] [org.springframework.boot.StartupInfoLogger:50] - Starting SpringmybatisApplication on LAPTOP-8AVEJLS3 with PID 16408 (D:\workspace\springmybatis\target\classes started by lion in D:\workspace\springmybatis) 
+[spring_mybatis] 2019-06-26 22:35:27 [INFO] [org.springframework.boot.SpringApplication:646] - No active profile set, falling back to default profiles: default 
+[spring_mybatis] 2019-06-26 22:35:27 [INFO] [org.springframework.boot.logging.DeferredLog:225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+[spring_mybatis] 2019-06-26 22:35:27 [INFO] [org.springframework.boot.logging.DeferredLog:225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+[spring_mybatis] 2019-06-26 22:35:29 [INFO] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:90] - Tomcat initialized with port(s): 9090 (http) 
+[spring_mybatis] 2019-06-26 22:35:29 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Initializing ProtocolHandler ["http-nio-9090"] 
+[spring_mybatis] 2019-06-26 22:35:29 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Starting service [Tomcat] 
+[spring_mybatis] 2019-06-26 22:35:29 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Starting Servlet engine: [Apache Tomcat/9.0.21] 
+[spring_mybatis] 2019-06-26 22:35:29 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - An older version [1.2.17] of the APR based Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.21] 
+[spring_mybatis] 2019-06-26 22:35:29 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Loaded APR based Apache Tomcat Native library [1.2.17] using APR version [1.6.3]. 
+[spring_mybatis] 2019-06-26 22:35:29 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true]. 
+[spring_mybatis] 2019-06-26 22:35:29 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true] 
+[spring_mybatis] 2019-06-26 22:35:30 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - OpenSSL successfully initialized [OpenSSL 1.0.2o  27 Mar 2018] 
+[spring_mybatis] 2019-06-26 22:35:30 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Initializing Spring embedded WebApplicationContext 
+[spring_mybatis] 2019-06-26 22:35:30 [INFO] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:283] - Root WebApplicationContext: initialization completed in 2386 ms 
+[spring_mybatis] 2019-06-26 22:35:31 [INFO] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport:171] - Initializing ExecutorService 'applicationTaskExecutor' 
+[spring_mybatis] 2019-06-26 22:35:31 [INFO] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:57] - LiveReload server is running on port 35729 
+[spring_mybatis] 2019-06-26 22:35:31 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Starting ProtocolHandler ["http-nio-9090"] 
+[spring_mybatis] 2019-06-26 22:35:31 [INFO] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:202] - Tomcat started on port(s): 9090 (http) with context path '' 
+[spring_mybatis] 2019-06-26 22:35:31 [INFO] [org.springframework.boot.StartupInfoLogger:59] - Started SpringmybatisApplication in 3.734 seconds (JVM running for 4.774) 
+[spring_mybatis] 2019-06-26 22:35:44 [INFO] [org.apache.juli.logging.DirectJDKLog:173] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+[spring_mybatis] 2019-06-26 22:35:44 [INFO] [org.springframework.web.servlet.FrameworkServlet:524] - Initializing Servlet 'dispatcherServlet' 
+[spring_mybatis] 2019-06-26 22:35:44 [INFO] [org.springframework.web.servlet.FrameworkServlet:546] - Completed initialization in 8 ms 
+[spring_mybatis] 2019-06-26 22:35:44 [INFO] [com.pactera.controller.UserController:32] - user list: [com.pactera.entity.User@2ff12c0d, com.pactera.entity.User@353a0df, com.pactera.entity.User@23c67e9d, com.pactera.entity.User@326af231] 
+[spring_mybatis] 2019-06-26 22:35:44 [WARN] [com.pactera.controller.UserController:33] - user list: [com.pactera.entity.User@2ff12c0d, com.pactera.entity.User@353a0df, com.pactera.entity.User@23c67e9d, com.pactera.entity.User@326af231] 
+[spring_mybatis] 2019-06-26 22:36:20 [INFO] [com.pactera.controller.UserController:25] - User: com.pactera.entity.User@72c189e 
+[spring_mybatis] 2019-06-26 22:36:24 [INFO] [com.pactera.controller.UserController:25] - User: com.pactera.entity.User@53da89af 

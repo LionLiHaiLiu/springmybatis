@@ -1,0 +1,1 @@
+[spring_mybatis] 2019-06-26 22:35:44 [WARN] [com.pactera.controller.UserController:33] - user list: [com.pactera.entity.User@2ff12c0d, com.pactera.entity.User@353a0df, com.pactera.entity.User@23c67e9d, com.pactera.entity.User@326af231] 
